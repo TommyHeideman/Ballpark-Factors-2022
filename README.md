@@ -2,6 +2,7 @@
 
 Authors: Tommy Heideman, Joey Matuisk, and Jake Mitchell
 
+Full Report with graphics and explanations found in the WrittenReport word document. 
 
 This R script provides a comprehensive analysis of ballpark factors in Major League Baseball (MLB) stadiums for the 2022 season. It aims to explore how different stadiums affect game outcomes, specifically focusing on factors like ballpark dimensions, altitude, and local weather conditions.
 
