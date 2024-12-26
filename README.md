@@ -1,6 +1,6 @@
 # Ballpark-Factors-2022
 
-Authors: Tommy Heideman, Joey Matuisk, and Jake Mitchell
+
 
 Full Report with graphics and explanations found in the WrittenReport word document. 
 
